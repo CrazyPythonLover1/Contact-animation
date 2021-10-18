@@ -1,6 +1,7 @@
 .contact-heading {
-    font-family: "DM Serif Display", serif;
+  font-family: 'Neue World',sans-serif;
     font-size: 120px;
+    margin-bottom: 150px;
   }
   
   .text-one {
@@ -8,6 +9,10 @@
   }
   .text-two {
     padding: 5px 0;
+  }
+
+  .contact {
+    height:100vh;
   }
 
   .contact::before {

@@ -4,7 +4,6 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <div className="text-center contact">
-      <div className="animation"></div>
       <h1 className="contact-heading">Contact</h1>
       <p className="text-one">Start a new project with us</p>
       <h1>projects@loftgarten.co</h1>
